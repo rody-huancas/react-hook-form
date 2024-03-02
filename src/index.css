@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #101010;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+label {
+  display: block;
+}
+
+input, select {
+  width: 100%;
+}
