@@ -15,3 +15,9 @@ label {
 input, select {
   width: 100%;
 }
+
+span {
+  display: block;
+  color: tomato;
+  font-size: x-small;
+}
